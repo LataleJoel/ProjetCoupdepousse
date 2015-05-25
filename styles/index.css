@@ -1,0 +1,54 @@
+#description p{
+    margin-top: 15px;
+    margin-bottom: 20px;
+    color: #8b8b8b;
+    font-size:18px;
+    line-height: 32px;
+    text-align: center;
+}
+#temoignage {
+    text-align: center;
+}
+#temoignage p{
+   text-align: center;
+   font-family: Georgia,serif;
+   font-size: 22px;
+   font-style: italic;
+   line-height: 24px;
+   padding-bottom: 48px;
+   color:#888888;
+   display:inline-block;
+   position:relative;
+}
+
+#temoignage p:before{
+    content: url(../images/left-quotes.png);
+    position : relative;
+    top:10px;
+    right: 5px;
+}
+#temoignage p:after{
+    content: url(../images/right-quotes.png);
+     position : relative;
+    top:10px;
+    left: 5px;
+}
+#temoignage > div.conteneur{text-align: center;}
+#temoignage p span.signature{
+    position:absolute;
+    bottom:0px;
+    right:32px;
+}
+
+#en-vedette h2{
+    color:#484848;
+    font-weight:normal;
+    font-size:26px;
+    text-align:left;
+}
+#en-vedette{
+    text-decoration: #6e6e6e;
+    font-size: 16px;
+    padding-bottom: 15px;
+    padding-top: 15px;
+}

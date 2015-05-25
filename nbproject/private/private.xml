@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/web/framework/helpers/http.helper.php</file>
+            <file>file:/C:/xampp/htdocs/web/framework/application.php</file>
+            <file>file:/C:/xampp/htdocs/web/framework/model.php</file>
+            <file>file:/C:/xampp/htdocs/web/application/templates/application.template.php</file>
+            <file>file:/C:/xampp/htdocs/web/application/controllers/index.controller.php</file>
+            <file>file:/C:/xampp/htdocs/web/application/templates/dev.template.php</file>
+            <file>file:/C:/xampp/htdocs/web/styles/test.css</file>
+            <file>file:/C:/xampp/htdocs/web/application/models/utilisateurs.model.php</file>
+            <file>file:/C:/xampp/htdocs/web/styles/index.css</file>
+            <file>file:/C:/xampp/htdocs/web/styles/coupsdepousse.css</file>
+            <file>file:/C:/xampp/htdocs/web/maquette.html</file>
+            <file>file:/C:/xampp/htdocs/web/application/views/index.view.php</file>
+            <file>file:/C:/xampp/htdocs/web/application/controllers/coup_de_pouce.controller.php</file>
+            <file>file:/C:/xampp/htdocs/web/application/controllers/utilisateurs.controller.php</file>
+            <file>file:/C:/xampp/htdocs/web/application/views/ajouter_utilisateur.view.php</file>
+            <file>file:/C:/xampp/htdocs/web/framework/controller.php</file>
+            <file>file:/C:/xampp/htdocs/web/index.html</file>
+            <file>file:/C:/xampp/htdocs/web/framework/configuration.php</file>
+            <file>file:/C:/xampp/htdocs/web/framework/page.php</file>
+            <file>file:/C:/xampp/htdocs/web/application/templates/index.template.php</file>
+            <file>file:/C:/xampp/htdocs/web/application/helpers/navigation.helper.php</file>
+            <file>file:/C:/xampp/htdocs/web/test.php</file>
+        </group>
+    </open-files>
+</project-private>

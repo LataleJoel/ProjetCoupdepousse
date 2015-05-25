@@ -1,0 +1,23 @@
+#ajouter-utilisateur > div.conteneur {
+    padding-top:20px;
+}
+
+#ajouter-utilisateur > div.conteneur > fieldset {
+    width:700px;
+    margin-left:auto;
+    margin-right:auto;
+    margin-bottom:20px;
+}
+
+#ajouter-utilisateur select {
+    margin-right:200px;    
+}
+
+#ajouter-utilisateur label {
+    line-height: 30px;
+}
+
+#ajouter-utilisateur button {
+    margin-top:20px;
+}
+
