@@ -1,0 +1,45 @@
+#editer-coup_de_pouce > div.conteneur {
+    padding-top:20px;
+}
+
+#editer-coup_de_pouce > div.conteneur > fieldset {
+    width:700px;
+    margin-left: -15px;
+    //margin-right: auto;
+    margin-bottom: 20px;
+    margin-top: -20px;
+}
+
+#editer-coup_de_pouce select {
+    margin-right:200px;    
+}
+
+#editer-coup_de_pouce label {
+    line-height: 30px;
+}
+
+#editer-coup_de_pouce button {
+    margin-top:20px;
+    color:white;    
+    font-size: 16px;
+    padding:8px 25px;        
+    text-transform: uppercase;
+    background-color: #D34C24;
+    border: none;
+}
+
+#editer-coup_de_pouce textarea {
+    display: inline-block;
+    padding:4px 6px;
+    margin-left: 225px;
+    margin-bottom: 3px;
+    margin-top: -27px;
+}
+
+#subnav {
+    width:220px;
+    margin-left:10px;
+    margin-right:10px;       
+    padding-top:20px;
+    float:left;
+}

@@ -1,0 +1,65 @@
+form > dl > dd {        
+    display:inline-block; 
+    margin-bottom:12px;
+    margin-right:100px;
+}
+
+form > dl label {
+    font-size:14px;
+    color:#7C7C7C;   
+}
+
+form > dl > dt {
+    display:inline-block;
+    width:200px;
+    padding-right:20px;
+    text-align:right;
+}
+
+form > dl > dd > input,
+form > dl > dd > span {
+    height:27px;
+    width: 250px;
+    padding:4px 6px;
+    font-size:14px;
+}
+
+form > dl > dd > span {
+    display: inline-block;
+    padding: 0px;
+}
+
+form > dl > dd  select {
+    width: 100px;
+}
+
+button.btn {        
+    color:white;    
+    font-size: 16px;
+    padding:8px 25px;        
+    text-transform: uppercase;
+    background-color: #D34C24;
+    border: none;
+}
+
+fieldset {
+    border:1px solid #CECECE;
+}
+
+main {
+    margin-top:106px;
+}
+
+fieldset legend h2.titre {
+    padding-left:20px;
+    padding-right: 20px;  
+    font-size: 24px;
+}
+
+.erreur-form {
+    padding-left:220px;
+    padding-top:18px;
+    padding-bottom:18px;
+    color:#E06C4A;    
+    font-size:12px;
+}
